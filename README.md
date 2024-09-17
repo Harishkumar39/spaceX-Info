@@ -1,7 +1,7 @@
 **SpaceX Info**
 This project is a responsive web application built with React and TypeScript, providing users with detailed information about SpaceX rockets, launches, and it's histories.
 
-**Tech Stack**
+**Tech Stack** 
 **1.** **React** With **TypeScript**
 React is a modern frontend framework used by many of the top companies for its robust nature. It is one of the Javascript library.
   -> **React Router** is used for client-side routing to enable the navigation between pages without full-page reloads.
